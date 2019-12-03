@@ -1,2 +1,2 @@
-# Dijkstra-Algortihm
-Dijkstra algorithm written in C++
+# Floys-Warshall Algortihm
+Floys-Warshall algorithm written in C++
