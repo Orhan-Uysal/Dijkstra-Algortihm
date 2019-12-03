@@ -1,2 +1,2 @@
-# Dijkstra-Algortihm
-Dijkstra algorithm written in C++
+# Segment Tree
+Segment tree written in C++
